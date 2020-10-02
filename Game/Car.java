@@ -7,7 +7,7 @@ import java.awt.image.BufferedImage;
 public class Car extends Sprite implements GameConstant {
 
 	
-
+// This class is done.
 	
 	
 	public Car(){
